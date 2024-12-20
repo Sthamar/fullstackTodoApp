@@ -20,7 +20,7 @@
             window.location.href = '/tasks';
 
         }else{
-            console.error("faild to create task");
+            alert("faild to create task");
 
         }
     }
